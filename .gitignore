@@ -1,7 +1,8 @@
- .bash_logout
- .bash_profile
- .bashrc
- .gitconfig
- .lesshst
- .ssh/
-
+.bash_logout
+.bash_profile
+.bashrc
+.gitconfig
+.lesshst
+.ssh
+test.txt
+trial.txt
